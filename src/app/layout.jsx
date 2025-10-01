@@ -8,7 +8,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata = {
-  title: "Soham Parekh - Portfolio",
+  title: "Daniel Ise - Portfolio",
   description: "Computer Science Student at University of Toronto",
 };
 

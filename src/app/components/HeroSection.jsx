@@ -6,7 +6,7 @@ export default function HeroSection() {
   const titles = [
     "Software Engineer",
     "Computer Science Student",
-    "Basketball & Cricket Enjoyer",
+    "Lazy coder",
     "Serial Moonlighter",
   ];
 
@@ -42,7 +42,7 @@ export default function HeroSection() {
   return (
     <section className="h-[75vh] flex flex-col items-center justify-center px-8 py-20">
       <h1 className="text-6xl sm:text-7xl md:text-8xl font-bold text-dark-brown mb-8 text-center">
-        Soham Parekh
+        Daniel Ise
       </h1>
       <div className="h-12 flex items-center">
         <p className="text-2xl sm:text-3xl md:text-4xl text-forest-green font-medium">

@@ -2,7 +2,7 @@ export default function BioSection() {
   return (
     <section className="max-w-4xl mx-auto px-8 py-20 border-t-2 border-dark-brown">
       <p className="text-lg md:text-xl text-dark-brown leading-relaxed mb-8">
-        I'm Soham Parekh, a computer science student at the University of
+        I'm Daniel Ise, a computer science student at the University of
         Toronto with a deep passion for robotics and a love for sports.
         Whether I'm debugging code, building autonomous systems, or shooting
         hoops on the basketball court, I thrive on challenges that push me to

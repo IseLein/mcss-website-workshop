@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 right-0 bg-cream border-b-2 border-dark-brown z-50">
       <div className="max-w-7xl mx-auto px-8 py-4 flex items-center justify-between">
         <a href="#" className="text-2xl font-bold text-dark-brown hover:text-forest-green transition-colors">
-          SP
+          DI
         </a>
         <div className="flex gap-8">
           <a href="#about" className="text-dark-brown hover:text-forest-green transition-colors font-medium">
